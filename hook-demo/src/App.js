@@ -1,26 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
+import Hook from "./pages/useLayoutEffect/useLayoutEffect"
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Hook />
     </div>
   );
 }
 
 export default App;
+
+
+// https://juejin.im/post/5caaa8ffe51d452b2b027f8a#heading-22
