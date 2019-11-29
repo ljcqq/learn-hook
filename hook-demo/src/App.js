@@ -1,5 +1,5 @@
 import React from 'react';
-import Hook from "./pages/useLayoutEffect/useLayoutEffect"
+import Hook from "./pages/renderProps/demo"
 import './App.css';
 
 function App() {
