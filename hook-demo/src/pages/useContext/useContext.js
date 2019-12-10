@@ -37,4 +37,4 @@ function ThemedButton() {
     </button>
   );
 }
-export default ThemedButton
+export default App
